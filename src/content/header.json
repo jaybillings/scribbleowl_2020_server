@@ -1,21 +1,9 @@
 {
   "title": "Jay Billings",
-  "sections": [
-    {
-      "title": "About",
-      "path": "about"
-    },
-    {
-      "path": "portfolio",
-      "title": "Past Projects"
-    },
-    {
-      "path": "contact",
-      "title": "Contact Me"
-    },
-    {
-      "path": "hire",
-      "title": "Hire Me"
-    }
-  ]
+  "sections": {
+    "about": "About",
+    "portfolio": "Past Projects",
+    "contact": "Contact Me",
+    "hire": "Hire Me"
+  }
 }

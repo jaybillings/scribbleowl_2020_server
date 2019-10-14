@@ -6,29 +6,31 @@
   ],
   "skills": [
     {
-      "main_category": "Animals",
-      "subcategories": [
-        "Dog",
-        "Sheep",
-        "Wolf",
-        "Deer"
+      "title": "Killer Skills",
+      "description": "You need this shit done? I'm your boy.",
+      "items": ["JavaScript", "CSS", "HTML", "User Experience design", "REST API consumption"]
+    },
+    {
+      "title": "Solid Skills",
+      "description": "I can do the work, but gimme a minute for anything super advanced.",
+      "items": ["MySQL", "PHP 5", "WordPress", "CSS3", "FeathersJS", "REST API creation", "Socket.io consumption"]
+    },
+    {
+      "title": "Developing Skills",
+      "description": "I can make it work, but I can't always explain what I did.",
+      "items": [
+        "React", "NodeJS", "ECMAScript 5", "PHP 7", "Database modeling", "Webapp design"
       ]
     },
     {
-      "main_category": "Colors",
-      "subcategories": [
-        "Red",
-        "Teal",
-        "Gold"
-      ]
+      "title": "New Skills",
+      "desc": "I just picked these up.",
+      "items": ["MariaDB"]
     },
     {
-      "main_category": "Dogs",
-      "subcategpries": [
-        "pitbull",
-        "collie",
-        "shiba inu"
-      ]
+      "title": "Old Skills",
+      "description": "I've done in the past, but I'll need a refresher.",
+      "items": ["ASP.NET", "Python 2.7"]
     }
   ]
 }
