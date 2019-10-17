@@ -1,36 +1,7 @@
 {
   "title": "About Jay",
-  "main_copy": [
+  "copy": [
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. ",
     "Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. "
-  ],
-  "skills": [
-    {
-      "title": "Killer Skills",
-      "description": "You need this shit done? I'm your boy.",
-      "items": ["JavaScript", "CSS", "HTML", "User Experience design", "REST API consumption"]
-    },
-    {
-      "title": "Solid Skills",
-      "description": "I can do the work, but gimme a minute for anything super advanced.",
-      "items": ["MySQL", "PHP 5", "WordPress", "CSS3", "FeathersJS", "REST API creation", "Socket.io consumption"]
-    },
-    {
-      "title": "Developing Skills",
-      "description": "I can make it work, but I can't always explain what I did.",
-      "items": [
-        "React", "NodeJS", "ECMAScript 5", "PHP 7", "Database modeling", "Webapp design"
-      ]
-    },
-    {
-      "title": "New Skills",
-      "desc": "I just picked these up.",
-      "items": ["MariaDB"]
-    },
-    {
-      "title": "Old Skills",
-      "description": "I've done in the past, but I'll need a refresher.",
-      "items": ["ASP.NET", "Python 2.7"]
-    }
   ]
 }

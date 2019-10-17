@@ -1,44 +1,44 @@
 {
   "title": "My Projects",
-  "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. ",
+  "copy": ["Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.", "Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.", "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."],
   "projects": [
     {
       "title": "Meteor Client Backend",
-      "desc": "Some text",
+      "desc": ["Some text"],
       "tech": ["Python", "jQuery", "SCSS"],
       "images": [
-        ["https://placeholder.com/750/fff.png", "Here is a thing that I did"],
-        ["https://placeholder.com/750/fff.png", "Here is another thing that I did"],
-        ["https://placeholder.com/750/fff.png", "Here is the third thing that I did"]
+        ["https://via.placeholder.com/250/ccf4c4.png", "Here is a thing that I did"],
+        ["https://via.placeholder.com/250/9dad4d.png", "Here is another thing that I did"],
+        ["https://via.placeholder.com/250/6570a4.png", "Here is the third thing that I did"]
       ]
     },
     {
       "title": "Cheezburger Video Player",
-      "desc": "Its now broken",
+      "desc": ["Its now broken"],
       "tech": ["AngularJS", "What was the backend?", "SCSS"],
       "images": [
-        ["https://placeholder.com/750/fff.png", "Here is a thing that I did"],
-        ["https://placeholder.com/750/fff.png", "Here is another thing that I did"]
+        ["https://via.placeholder.com/250/284efb.png", "Here is a thing that I did"],
+        ["https://via.placeholder.com/250/4e914e.png", "Here is another thing that I did"]
       ]
     },
     {
       "title": "Visit Seattle Search",
-      "desc": "Hopefully the site is still up",
+      "desc": ["Hopefully the site is still up"],
       "url": "https://visitseattle.org/?s=coffee",
       "tech": ["PHP 7", "WordPress", "Vanilla JS", "SCSS"],
       "images": [
-        ["https://placeholder.com/750/fff.png", "Here is a thing that I did"],
-        ["https://placeholder.com/750/fff.png", "Here is another thing that I did"],
-        ["https://placeholder.com/750/fff.png", "Here is the third thing that I did"]
+        ["https://via.placeholder.com/250/611449.png", "Here is a thing that I did"],
+        ["https://via.placeholder.com/250/f1bcd6.png", "Here is another thing that I did"],
+        ["https://via.placeholder.com/250/97c25c.png", "Here is the third thing that I did"]
       ]
     },
     {
       "title": "Visit Seattle Events Manager",
-      "desc": "Probably not being used",
+      "desc": ["Probably not being used"],
       "tech": ["NodeJS", "FeathersJS", "ReactJS", "CSS", "MariaDB", "KNEX"],
       "images": [
-        ["https://placeholder.com/750/fff.png", "Here is a thing that I did"],
-        ["https://placeholder.com/750/fff.png", "Here is another thing that I did"]
+        ["https://via.placeholder.com/250/1fcabb.png", "Here is a thing that I did"],
+        ["https://via.placeholder.com/250/323cfb.png", "Here is another thing that I did"]
       ]
     }
   ]

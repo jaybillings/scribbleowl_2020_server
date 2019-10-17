@@ -1,9 +1,28 @@
 {
   "title": "Jay Billings",
   "sections": {
-    "about": "About",
-    "portfolio": "Past Projects",
-    "contact": "Contact Me",
-    "hire": "Hire Me"
+    "default": [
+      [
+        "About",
+        "about"
+      ],
+      [
+        "Skills Summary",
+        "skills"
+      ],
+      [
+        "Past Projects",
+        "portfolio"
+      ]
+    ],
+    "for_hire": [
+      "Hire Me",
+      "hire"
+    ],
+    "contact": [
+      "Contact Me",
+      "contact"
+    ]
   }
 }
+
