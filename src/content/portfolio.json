@@ -1,44 +1,45 @@
 {
-  "title": "My Projects",
+  "title": "Project Gallery",
   "copy": ["Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.", "Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.", "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."],
   "projects": [
     {
       "title": "Meteor Client Backend",
-      "desc": ["Some text"],
+      "year": "1992",
+      "desc": ["Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,","sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."],
       "tech": ["Python", "jQuery", "SCSS"],
       "images": [
-        ["https://via.placeholder.com/250/ccf4c4.png", "Here is a thing that I did"],
-        ["https://via.placeholder.com/250/9dad4d.png", "Here is another thing that I did"],
-        ["https://via.placeholder.com/250/6570a4.png", "Here is the third thing that I did"]
-      ]
-    },
-    {
-      "title": "Cheezburger Video Player",
-      "desc": ["Its now broken"],
-      "tech": ["AngularJS", "What was the backend?", "SCSS"],
-      "images": [
-        ["https://via.placeholder.com/250/284efb.png", "Here is a thing that I did"],
-        ["https://via.placeholder.com/250/4e914e.png", "Here is another thing that I did"]
-      ]
-    },
-    {
-      "title": "Visit Seattle Search",
-      "desc": ["Hopefully the site is still up"],
-      "url": "https://visitseattle.org/?s=coffee",
-      "tech": ["PHP 7", "WordPress", "Vanilla JS", "SCSS"],
-      "images": [
-        ["https://via.placeholder.com/250/611449.png", "Here is a thing that I did"],
-        ["https://via.placeholder.com/250/f1bcd6.png", "Here is another thing that I did"],
-        ["https://via.placeholder.com/250/97c25c.png", "Here is the third thing that I did"]
+        {
+          "path": "https://via.placeholder.com/250/ccf4c4.png",
+          "desc": [
+            "Sed ut perspiciatis unde omnis iste natus error sit",
+            "voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab",
+            "illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+          ]
+        },
+        {
+          "path": "https://via.placeholder.com/250/9dad4d.png",
+          "desc": ["sit aspernatur aut odit aut fugit,","sed quia consequuntur magni dolores eos","qui ratione voluptatem sequi nesciunt."]
+        },
+        {
+          "path": "https://via.placeholder.com/250/6570a4.png",
+          "desc": ["Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex "]
+        }
       ]
     },
     {
       "title": "Visit Seattle Events Manager",
-      "desc": ["Probably not being used"],
+      "year": "2028",
+      "desc": ["Probably not being used","but you never know"],
       "tech": ["NodeJS", "FeathersJS", "ReactJS", "CSS", "MariaDB", "KNEX"],
       "images": [
-        ["https://via.placeholder.com/250/1fcabb.png", "Here is a thing that I did"],
-        ["https://via.placeholder.com/250/323cfb.png", "Here is another thing that I did"]
+        {
+          "path":  "https://via.placeholder.com/250/1fcabb.png",
+          "desc": ["At vero eos et accusamus et iusto odio dignissimos ducimus","qui blanditiis praesentium voluptatum deleniti atque","corrupti quos dolores et quas molestias"]
+        },
+        {
+          "path": "https://via.placeholder.com/250/323cfb.png",
+          "desc": ["Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem ve","eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur,","vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"]
+        }
       ]
     }
   ]
