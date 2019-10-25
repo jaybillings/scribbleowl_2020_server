@@ -5,5 +5,12 @@
   "paginate": {
     "default": 10,
     "max": 50
+  },
+  "smtp": {
+    "host": "0.0.0.0",
+    "port": 1025,
+    "user": "fakesmtpuser",
+    "pass": "fakesmtppass",
+    "insecureTLS": true
   }
 }
