@@ -1,12 +1,18 @@
 {
   "title": "Project Gallery",
-  "copy": ["Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.", "Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.", "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."],
   "projects": [
     {
       "title": "Meteor Client Backend",
       "year": "1992",
-      "desc": ["Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,","sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."],
-      "tech": ["Python", "jQuery", "SCSS"],
+      "desc": [
+        "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,",
+        "sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+      ],
+      "tech": [
+        "Python",
+        "jQuery",
+        "SCSS"
+      ],
       "images": [
         {
           "path": "https://via.placeholder.com/250/ccf4c4.png",
@@ -18,27 +24,51 @@
         },
         {
           "path": "https://via.placeholder.com/250/9dad4d.png",
-          "desc": ["sit aspernatur aut odit aut fugit,","sed quia consequuntur magni dolores eos","qui ratione voluptatem sequi nesciunt."]
+          "desc": [
+            "sit aspernatur aut odit aut fugit,",
+            "sed quia consequuntur magni dolores eos",
+            "qui ratione voluptatem sequi nesciunt."
+          ]
         },
         {
           "path": "https://via.placeholder.com/250/6570a4.png",
-          "desc": ["Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex "]
+          "desc": [
+            "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex "
+          ]
         }
       ]
     },
     {
       "title": "Visit Seattle Events Manager",
       "year": "2028",
-      "desc": ["Probably not being used","but you never know"],
-      "tech": ["NodeJS", "FeathersJS", "ReactJS", "CSS", "MariaDB", "KNEX"],
+      "desc": [
+        "Probably not being used",
+        "but you never know"
+      ],
+      "tech": [
+        "NodeJS",
+        "FeathersJS",
+        "ReactJS",
+        "CSS",
+        "MariaDB",
+        "KNEX"
+      ],
       "images": [
         {
-          "path":  "https://via.placeholder.com/250/1fcabb.png",
-          "desc": ["At vero eos et accusamus et iusto odio dignissimos ducimus","qui blanditiis praesentium voluptatum deleniti atque","corrupti quos dolores et quas molestias"]
+          "path": "https://via.placeholder.com/250/1fcabb.png",
+          "desc": [
+            "At vero eos et accusamus et iusto odio dignissimos ducimus",
+            "qui blanditiis praesentium voluptatum deleniti atque",
+            "corrupti quos dolores et quas molestias"
+          ]
         },
         {
           "path": "https://via.placeholder.com/250/323cfb.png",
-          "desc": ["Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem ve","eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur,","vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"]
+          "desc": [
+            "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem ve",
+            "eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur,",
+            "vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+          ]
         }
       ]
     }
