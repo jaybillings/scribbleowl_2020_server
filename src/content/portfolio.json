@@ -3,6 +3,7 @@
   "projects": [
     {
       "title": "Meteor Client Backend",
+      "thumbnail": "https://via.placeholder.com/250/ccf4c4.png",
       "year": "1992",
       "desc": [
         "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,",
@@ -15,35 +16,33 @@
       ],
       "images": [
         {
-          "path": "https://via.placeholder.com/250/ccf4c4.png",
+          "path": "https://via.placeholder.com/1200/ccf4c4.png",
           "desc": [
-            "Sed ut perspiciatis unde omnis iste natus error sit",
-            "voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab",
+            "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab",
             "illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
           ]
         },
         {
-          "path": "https://via.placeholder.com/250/9dad4d.png",
+          "path": "https://via.placeholder.com/950/9dad4d.png",
           "desc": [
-            "sit aspernatur aut odit aut fugit,",
-            "sed quia consequuntur magni dolores eos",
-            "qui ratione voluptatem sequi nesciunt."
+            "sit aspernatur aut odit aut fugit sit aspernatur aut odit aut fugit sit aspernatur aut odit aut fugit sit aspernatur aut odit aut fugit,",
+            "sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
           ]
         },
         {
-          "path": "https://via.placeholder.com/250/6570a4.png",
+          "path": "https://via.placeholder.com/1250/6570a4.png",
           "desc": [
-            "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex "
+            "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex."
           ]
         }
       ]
     },
     {
       "title": "Visit Seattle Events Manager",
+      "thumbnail": "https://via.placeholder.com/250/1fcabb.png",
       "year": "2028",
       "desc": [
-        "Probably not being used",
-        "but you never know"
+        "Probably not being used but you never know"
       ],
       "tech": [
         "NodeJS",
@@ -55,19 +54,17 @@
       ],
       "images": [
         {
-          "path": "https://via.placeholder.com/250/1fcabb.png",
+          "path": "https://via.placeholder.com/1250/1fcabb.png",
           "desc": [
-            "At vero eos et accusamus et iusto odio dignissimos ducimus",
-            "qui blanditiis praesentium voluptatum deleniti atque",
-            "corrupti quos dolores et quas molestias"
+            "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias."
           ]
         },
         {
-          "path": "https://via.placeholder.com/250/323cfb.png",
+          "path": "https://via.placeholder.com/950/323cfb.png",
           "desc": [
             "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem ve",
-            "eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur,",
-            "vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+            "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem ve",
+            "eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
           ]
         }
       ]
